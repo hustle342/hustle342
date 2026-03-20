@@ -1,4 +1,4 @@
-[![MasterHead](https://i.redd.it/az6gaqonkws01.png)
+[![MasterHead](https://wallpapers.com/images/hd/samurai-jack-meditating-in-the-field-juxrrvbjcmnucfy6.jpg)
 <h1 align="center">Hello,it's me Serdar Korkmaz</h1>
 <h3 align="center">am a freshman student studying Computer Engineering at Isparta Applied Sciences University. I created this page to keep up with current technology and programming languages, and to create projects.</h3>
 
